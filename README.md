@@ -1,2 +1,24 @@
-# Blog_Website
-A dynamic and user-friendly Blog Website with multilingual translation capabilities. Users can read, post, and comment on blogs in multiple languages, making the content accessible to a global audience. Developed using PHP and MySQL, with translation implemented via APIs.
+# How to Create a Blog PHP & MySQL database
+
+## PHP Blogging Website
+
+
+version: 1.0.0
+
+## TECHNOLOGIES
+
+1. PHP
+1. HTML & CSS
+1. JQuery AJAX
+1. Javascript
+1. Bootstrap 5
+
+
+
+## Full Tutorial
+
+[On Youtube](https://www.youtube.com/playlist?list=PL2WFgdVk-usFBEBfk6TVrlHyyaFg0Z1Kg)
+
+## Authors
+
+[Elias Abdurrahman](https://github.com/codingWithElias)
