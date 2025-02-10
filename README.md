@@ -33,7 +33,6 @@ This project aims to develop a **comprehensive blog website** with the following
    - Manage **categories & subcategories**.  
    - Approve/reject **user-submitted posts and comments**.  
 
-By addressing these features, the blog website aims to **cater to diverse interests** while fostering a **knowledge-sharing community** with valuable insights into **cryptocurrency trends**.
 
 ---
 
